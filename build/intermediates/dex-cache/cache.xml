@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\c9367679f9973bf58635450d81bc44e0e5e68a02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9ac37c9a3c3265b897f84088013b2f963f928cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\8667bb69f3615f7132793c7a73b4359733813036\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67dc2b8813e1a73f7b0a16ab544a245a20eb9477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\da7d8581b51a992b2600a1e586315ae3264688fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_710ed9ac856438e731dae709c0e4d93141507354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\64a9d81b3188f5cd4436642079e2a7d108eaa71a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8e165d15f1b791c2314a7faea82ef96ab1a9446\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\8487dd2528f56ff9da768119106c58ac920a9023\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0c38465fc361397a91f250cf4faf7a6125c7606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\21ba2194dc510ad0033ff52cc52e33b39f0db0c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42bc722e7d8f8730d0ee57c8f1eba3e563e2bbd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\443a49e563c625749bc8eb53c57c83f00348e538\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_357745c3f0b1fd310c3747a37100e3690de5eb8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\e73137aa80b8830646910ff03ad2e48c0df37201\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9571774e355b7cf767cbd51c8464e95960b38de5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\318b1fa5849df52272467a9cbc6e5d9e50709420\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02f0f31c419799441313da88926030a4760f5306\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\37286cf74a0ede8d24c9400704cdb748392c4b46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7380ca2d7b37debaa91e13189d9d11d4f4dce1b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\702432f53aa8d81f3f8ded5fce757a2e4d7f55a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a234353d87447affbf1fb32525c1476fd712e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\99bcfef6fddae70c5ee081b0d2a294b30e4c2c39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6308002f86d4bee13d1f69dda8d5cc53634d6f16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\41cfcfdd7ab8cd18844da7ff8fae7e0d28b14e53\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_af3f0e5de5d13f6cffd0419a57e48a3aabb7c717\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\68b1eee2775f759ec5693cf81ca27f6b565f5463\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb41c94652c8883437abe8e43a07ff826c91b3de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\6e1b03558f6b0df0d429679a61bf7feecec78979\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a50f07efa4684248f9c0685036f1d2359e24cdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\43aff702f76b474f850efbb353c422871b22aee4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38fad3859d441b0f35ee029df5f16b0684050682\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\59868f3b1e7991abd52b62478c7b68db2ea5f36d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e795f4e6b1717def56fdae92989934121783a63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\2ce813718b85fd5db046b45606f1c05b8d7649e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54aaf7831ed40e553a827fac1412760475ef0e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\1990be086bc2e4593e52f84d6edb41c1ffe9699e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed317218b4585a06424807078dc0254d5e5b81c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\6e03709673280529ffbec3228b0fd44197007385\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f67ce511017162f38668baf1f917c505b78a7b5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\22962c3f0b2f1251f1fe47626e915a1fb4a4e6db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7572666f1e762c71ce3c703c697fbafcd1687cf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\601645263d904f9ab4635282d471ab10415cc165\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bc5861ea4ea65ff03799da632ade8aed5bf0cc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\4a6eb85cb335983476fa70b583d909b0174681df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80bcf24a86b0a1ad3e82afde183e02ca9227359d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\dbf2edffece81c565390bb90375fed4ac2562eaa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ba71a8694a73d4a31830f50bbf3374cfdc78e63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\b6bb5276f10c9e0a2682033f4ca5a555296c64eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99d91cbd41eff84da95973172610900fefa66f22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\3c9e1ba06a9fedcc3be35a85b3d2a2368c610d2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25433163d5f0d99f2eaa7ad740e866b3a521d66c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\b7376561b12cc7cf20552cd8542234f371249e20\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf9fae897d939366f1fc2e1dd392a5d9ad4f364b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\5463253ed13984fdf1a704042269577402c73f47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10c58ff743d322f13b47cb4060f704663140e062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\e5204107ccfeadc1edef7a60351e7f611992b14b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1029788b97df1b4d14706e957bfcc4898fe64937\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\c6baa385d3965c792c69af368ccfffd052f41d43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2bd1e3fb2c2b5e8e743239da524023b271daa602\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\41cfcfdd7ab8cd18844da7ff8fae7e0d28b14e53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3a85bc2231412cc5eeb7fbcc560da83b3c6f761\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\d6aa6ec4b0df302826df64fbcf02b4fdf0c8a1ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d27000c2d1fa44b5aa331ba7eb57dfbb52bde36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\b75d8aab185c762217f6ac8b3d145c3ce56003e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f04c350dafb0f3f601fb0bc04a8cfc5e6f9c297a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\d7a8608937c6c59fbadc86c554d0de057a1d5c0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5aa37317bce427798fc9a1e5535b292f14af680b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_7b9db27b08f05b065bd70f0307c93b13e8c0d547\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\be26ec2cee98a5777c80f87f066e6fe9ec91bddd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b09d52accc784f80ed5918f3af83e3d26829f076\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\0c9de19ea84abb16679ca7685598f1f779502f1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f009b1c82bb8a2a0963f99092348297c9c74c75b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb1797c2c7db626b481b08dd6c3210579b839485">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0e738a889f54fe6225c69588b03ee5d5cc82338b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\f1d82eca548f819e72a939c249da0fabe3c191f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f68b7b2d9e9e141216689cf83a68e4d44f390e8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\5d365d34b8ea85cbe1745af20796466709a2d48f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fb189baaf31638ff2aada00bad7af972aada350\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\e52e42ebf716951818f3504656b0ef461e5e35c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45105a5c602d2b74b2fe390dde2a92c79e121c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\1ddc1657e62fcbb368ba08aa777a20bad8b3742a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c1fa2762c9b41b3e27578f6c99d8ab365b8532d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\cd181d3acb437d5cd15da7c77fa85483c546680a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_429e282f4f9afc0855377f70eab5e349be80af0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\3e52999443904edd9993aaf326c5edeb3ab2b933\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4b6371a23068525230a4054b434f40531326b09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\089eb76d0d69f553eb445b8f01fc1085deb1b454\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6df5f600b86311c54e712c633f0c40a73125c29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\4373db87b154f2aa82c81dd7b43e41eb4586fdcd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a5af0101c6e801ac40b927d02441d2f53b19fc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\f8345acaaf370ed30a1b589bbce8956c10699205\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b997cb41098d7134d8795876292085a1aeea7041\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\965849ebcdff3e60a646ef873e93acd64c74c596\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76f334c368e0f7f76a43b034c2217443ab9d52e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\d0188de0e2072ea03ab9435e9929b39bff4b7d6d\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_84efbb5a80b30d80ed9c736eefaace7df8652dc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\a433d783f8665479373cbe22cc2e4a21f50bb164\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6212c31cdb3d9a569fef1d4a49e08e5c5b6a37d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\83626f509292fe7e4d32e041561a8afe3e1b5f07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_972b64fe56eabab9ee6f63974f082295ea7b4559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\4decf6cefa947d462fc75fb9172c9decb51856a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efb67e44fbf6fd258b1d46268b2a7570b8ccfae1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\85cd663966b59ea212b104905e15b8acce7f09ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef865d9d88b0912911458be2fcb0f6979f8c44e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e49f79824981dbf64c3c0c827b9e473c5ba77dcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\d0188de0e2072ea03ab9435e9929b39bff4b7d6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58386e347e486f2a1d4cadbc6a6478368b7fd1f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\558761256f710ab0d28d220c72a1ba962a357cc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6dfa57e46b8d97683cce6a3101103cc832c62fda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\46a93304b124541b60d09b71216f370af7b89c78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_accd0b3034410c1b910b9d97cb7fa671daa948e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_3c9f5880fec0a880f40ecbbebb3a60ccb1f35afa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_4a123f93db5862cdcf7e9ab71f35572a8c7e8e0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\7fea1e96961edd439a4b420e822244e51f22d419\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2975939ffa0ef37f087728b0700162b07a07bebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\b4f90d1bb7463d8bad32beeef22bd539542b0630\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c52b6476a4e61f346f57557021d19c7b5a9d261a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rui Nan\.android\build-cache\e1f42e7cdd4e6126ce86070f3886bfe5dc2f3ab8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="D:\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34e8ac800e87aa037a17b236b19f2072177e5b8a\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Sun Sep 03 02:06:57 PDT 2017
+base.0=D\:\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0e738a889f54fe6225c69588b03ee5d5cc82338b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e49f79824981dbf64c3c0c827b9e473c5ba77dcc\\classes.dex
+base.1=D\:\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e49f79824981dbf64c3c0c827b9e473c5ba77dcc
+file.0=D\:\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0e738a889f54fe6225c69588b03ee5d5cc82338b\\classes.dex
